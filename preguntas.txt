@@ -1,0 +1,15 @@
+pregunta 1: para crear local: git init, 
+            para entrelazar remoto con local: git remote add origin <link del repositorio>,
+            para subir version local: git push -u origin <branch>
+
+pregunta 2: clonando el repositorio con el comando git clone <link del repositorio>, luego ya se tendria el codigo para utilizar
+pregunta 3:
+pregunta 4:
+pregunta 5: presion y despresion de botones, ingreso de datos, eleccion de fecha
+pregunta 6: ciclo de eventos se refiere al hecho de que estén ocurriendo sucesos dentro de una ventana, tras pasar ese evento viene otro y asii sucesivamente hasta limitar
+pregunta 7: si, esto si no tiene la opcion  de self.setModal(True) que no permite el uso de la ventana original
+pregunta 8: QMessageBox, QDialog, QLabel, QLineEdit, QPushButton
+pregunta 9: se puede con QLabel y luego convertir el texto ingresado a float(o int, dependiendo),
+            tambien se puede con QComboBox para cuando sea un numero pequeño de opciones numericas,
+            y tambien con QSpinBox que permite tanto escribir el numero como ir subiendo o bajando desde el numero en que estoy
+pregunta 10: 
