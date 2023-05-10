@@ -21,7 +21,7 @@ class Ventana(QtWidgets.QMainWindow, Ui_VentanaPrincipal, Ui_VentanaSecundaria):
         super(Ventana, self).__init__(*args, **kwargs)
         #Implementación de Ui_VentanaPrincipal
         self.setupUi(self)
-        self.setupUi2(self)
+        # self.setupUi2(self)
 
         self.pushButton.clicked.connect(self.guardar_mascota)
         
